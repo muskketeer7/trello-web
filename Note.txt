@@ -1,0 +1,7 @@
+1. yarn build
+
+Khi đẩy 1 dự án lên production chạy lệnh yarn build -> sinh ra thư mục dist
+
+2. yarn preview
+
+Chaỵ, xem source sau khi build (chạy ở thư mục dist)
